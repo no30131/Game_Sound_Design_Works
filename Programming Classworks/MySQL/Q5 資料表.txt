@@ -1,0 +1,102 @@
+(1)CREATE TABLE lccnet (name VARCHAR(10)) ENGINE=InnoDB
+    A.  沒有指定字完集及儲存引擎而產生執行錯誤
+
+    B.  表格如果已經存在即發生錯誤
+
+    C.  表格如果已經存在即用新設定的資料表取代
+
+    D.  以上皆非
+
+B
+
+
+(2) 試問下列修改資料表的語法為何?
+    A.  SELECT
+
+    B.  INSERT
+
+    C.  DELETE
+
+    D.  ALTER
+
+D
+
+
+(3) 試問下列刪除資料表的語法為何?
+    A.  SELECT
+
+    B.  DROP
+
+    C.  DELETE
+
+    D.  ALTER
+
+B
+
+
+(4) 試問下列查詢資料庫中有哪些資料表的語法為何?
+    A.GET TABLES
+    B.SELECT TABLES
+    C.SHOW TABLES
+    D.LIST TABLES
+
+C
+
+
+(5) 試問下列那個語法可以查詢表格相關資訊
+    A.GET TABLES
+    B.DESC TABLES
+    C.SHOW TABLES
+    D.LIST TABLES
+
+C
+
+
+
+實作題:
+
+(1)請建立學生資料表Stutable
+
+欄位如下
+名稱        型態           NULL    索引      Default值
+id         int(10)         NO     主索引
+gender     varchar(10)     NO                  male
+name       varchar(20)     NO             
+phone      varchar(25)     YES
+address    varchar(30)     YES                 Taipei
+brithday   date            YES
+
+
+
+CREATE TABLE Stutable (
+  id int(10) NOT NULL  auto_increment,
+  gender varchar(10) NOT NULL  DEFAULT 'male',
+  name varchar(20) NOT NULL,
+  phone varchar(25),
+  address varchar(30)  DEFAULT 'Taipei',
+  brithday date,
+  PRIMARY KEY (id)
+)
+
+
+
+(2)請建立出pet資料表
+   名稱        型態           NULL    索引      Default值
+  id         int(10)            NO     主索引
+  gender     varchar(10)        NO                  male
+  name       varchar(20)        NO             
+  nick       varchar(25)        YES                 小花
+  brithday   date               YES
+
+
+
+CREATE TABLE pet (
+  id int(10) NOT NULL auto_increment,
+  gender varchar(10) NOT NULL DEFAULT 'male',
+  name varchar(20) NOT NULL,
+  nick varchar(25) DEFAULT '小花',
+  brithday date,
+  PRIMARY KEY (id)
+) 
+
+

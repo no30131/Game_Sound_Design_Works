@@ -1,0 +1,103 @@
+(1)下列何語法可以套用子查詢來搭配使用
+    A.  SELECT
+
+    B.  DELETE
+
+    C.  GROUP BY 
+
+    D.  LIMIT
+
+A
+
+
+(2) 試問下列語法結果為何?
+SELECT Code, Population
+FROM   countrydata
+WHERE  Population < ( SELECT Population
+                      FROM   countrydata
+                      WHERE  Code = 'RUS' )
+
+    A.  ERROR
+
+    B.  查詢出RUS的人口數
+
+    C.  查詢出大於RUS的人口數的國家
+
+    D.  查詢出小於RUS的人口數的國家
+
+D
+
+
+(3) 試問下列語法結果為何?
+SELECT CONCAT('The GNP of Spain is ',
+       ( SELECT GNP FROM countrydata WHERE  Name = 'Spain' ) )
+    A.  The GNP of Spain is (GNP的值)
+
+    B.  GNP的值
+
+    C.  ERROR
+
+    D.  The GNP of Spain is
+
+A
+
+
+(4) 試問ANY語法的使用方式與下列何者語法是有相同效果的
+    A.SOME
+    B.LIMIT
+    C.BETWEEN
+    D.IN
+
+D
+
+
+(5) 試問下列語法結果為何?
+UPDATE testdb.empdata
+SET    salary = salary * 1.05
+WHERE  job = ( SELECT job
+               FROM   testdb.empdata
+               WHERE  ename = 'APPLE' )
+
+    A.  ERROR
+
+    B.  更新資料表內的所有薪水欄位的值
+
+    C.  更新資料表內員工名稱為APPLE員工薪水欄位的值
+
+    D.  可以執行但資料不會有所變更
+
+A
+
+
+
+實作題:
+
+(1)查詢countrydata資料表中，CODE為ECU所屬的「洲別」有那些國家
+
+SELECT Name, Continent 
+FROM countrydata
+WHERE Continent = (SELECT Continent
+					FROM countrydata
+					WHERE code = 'ECU')
+
+			  
+
+(2)查詢countrydata資料表中，Population大於code為AZE國家的有哪幾國，
+	並秀出code及Population的資訊
+
+SELECT Name, code, Population
+FROM countrydata
+WHERE Population > (SELECT Population
+					FROM countrydata
+					WHERE code = 'AZE')
+
+
+
+(3)查詢worldcity資料表中，CountryDataCode為AFG國家
+	及Population大於237500的資訊
+
+SELECT Name, CountryDataCode, Population
+FROM worldcity
+WHERE CountryDataCode = 'AFG' AND Population > 237500
+
+

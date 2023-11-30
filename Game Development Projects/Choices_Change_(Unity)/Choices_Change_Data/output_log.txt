@@ -1,0 +1,310 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   31.0.15.1694
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\32\game portfolio\Choices & Change\Choices&Change_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.769600 ms
+[My First AVG Game/Texture/Character/mid/mid1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/mid/mid2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/mid/mid3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/mid/mid4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Aki/Aki1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Aki/Aki2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Aki/Aki3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Aki/Aki4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Light/Light1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Light/Light2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Light/Light3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Light/Light4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Hareru/Hareru1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Hareru/Hareru2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Hareru/Hareru3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Hareru/Hareru4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Doc/Doc1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Doc/Doc2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Doc/Doc3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Doc/Doc4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Yu/Yu1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Yu/Yu2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Yu/Yu3.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Yu/Yu4.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Character/Daisy/c.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg2.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg3.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg4.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg5.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg6.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg7.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg8.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg9.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg11.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg12.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/BG/Bg13.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/blue.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/airplane.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/vioce.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/chi.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/pigmo.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/pigpen.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/cow.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/cows.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/cowand.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/sheep.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/another.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/p1.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/ac.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/4.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/veggie_basket.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/toxic.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/1.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/m.jpg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Event/t.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Texture/Sprite/ball.png] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Heartache.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Ether.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Ipanema_Daydream.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/No_Win.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Stale_Mate.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Every_Step.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/BGM/Desert_Sky.ogg] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/Ambience/water_river.wav] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[My First AVG Game/Sound/SE/sfx-deposit.wav] contains white space
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+聯想動物:101 <color=#ff0000ff> BgmOff	</color>
+<b>Assets/My First AVG Game/My First AVG Game.xls:聯想動物</b>  : 101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Utage Ver 2.6.13 Start!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 4284 -> priority: 1 
+  Thread -> id: 53ec -> priority: 1 
+  Thread -> id: 4f4 -> priority: 1 
+  Thread -> id: 5398 -> priority: 1 
+  Thread -> id: 760 -> priority: 1 
+  Thread -> id: 2450 -> priority: 1 

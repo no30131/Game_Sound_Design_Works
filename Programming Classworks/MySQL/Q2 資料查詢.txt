@@ -1,0 +1,75 @@
+ (C)1.以下何項功能可把文字內容轉為小寫的資訊
+	A.TRIM
+	B.UPPER
+	C.LOWER
+	D.RPAD
+
+ (D)2.SELECT LEFT ('Apple iphone15',5))
+	A.Apple iphone15
+	B.App
+	C.iphone15
+	D.Apple
+
+
+ (C)3.SELECT IFNULL(NULL,'Apple')
+	A.Error
+	B.NULL
+	C.Apple
+	D.執行後產生錯誤
+
+
+ (D)4.請問下列語法是用來呈現人口最大值的資料。
+	A.SUM(Population) PopSum
+	B.COUNT(Population) Pop
+	C.MIN(Population) PopMIN
+	D.MAX(Population) PopMAX
+
+ (A)5.請問下列語法是用來呈現人口總計的語法。
+	A.SUM(Population) PopSum
+	B.COUNT(Population) Pop
+	C.MIN(Population) PopMIN
+	D.MAX(Population) PopMAX
+
+
+
+ (D)6.請問下列語法是用來呈現各地區國家數量統計的語法，資料表為countrydata 欄位為Region。
+	A.SELECT COUNT(*) FROM countrydata WHERE Region
+	B.SELECT COUNT(*) FROM countrydata
+	C.SELECT COUNT(*) FROM countrydata HAVING Region
+	D.SELECT COUNT(*) FROM countrydata GROUP BY Region
+
+
+
+問答題
+
+(1)請查詢其testdb.empdata資料表，並秀出名稱、月薪、獎金、及職務名稱。
+   獎金的計算方式為:
+	  MANAGER職務的員工為月薪的2倍
+	  ANALYST職務的員工為月薪的3倍
+	  PRESIDENT職務的員工為月薪的5倍
+	  其他職務的員工部份為1.5倍
+
+SELECT  ename, salary, job, salary *
+	CASE job
+	  WHEN 'MANAGER' THEN 2
+	  WHEN 'ANALYST' THEN 3
+	  WHEN 'PRESIDENT' THEN 5
+	  ELSE 1.5
+	END BONUS
+FROM testdb.empdata
+ORDER BY BONUS
+
+
+(2)查詢其testdb.empdata資料表，但以職務類別作分組(分群)並顯示出結果。
+
+SELECT *
+FROM testdb.empdata
+GROUP BY job 
+
+
+(3)請從testdb.empdata資料表查出年資大於40年的員工並秀出其所有資料
+
+SELECT *
+FROM testdb.empdata
+WHERE YEAR(CURDATE()) - YEAR(hiredate) > 40
+WHERE (YEAR(CURDATE_DATE) - YEAR(hiredate)) >40
